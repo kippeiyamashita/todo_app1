@@ -10,7 +10,6 @@ body {
 #app {
     margin: 50px auto; /* 上下に50pxの余白を設定し、中央揃え */
     width: 300px; /* アプリの幅を300pxに設定 */
-    /*border: 1px solid gray;*/
 }
 
 /* 入力ボックスのスタイル */
